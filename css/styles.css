@@ -1,0 +1,41 @@
+h1 {
+    text-align: center;
+}
+
+
+.navbar{
+    background-color: rgb(210, 234, 234);
+}
+
+#perfumes{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+#titulo {
+    margin-bottom: 40px;
+}
+
+.perfume {
+    background-color: rgb(246, 235, 219);
+    border: solid 2px black;
+    margin: 20px;
+    color: black;
+    text-align: center;
+}
+
+.nombre{
+    color: black;
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+.precio{
+    font-weight: bolder;
+}
+
+
+footer {
+    background-color:rgb(210, 234, 234);
+}
